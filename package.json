@@ -1,0 +1,7 @@
+{
+  "name": "@sigz/contracts",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3"
+  }
+}
